@@ -51,7 +51,15 @@ Não somente isso, é necessário alterar as permissões da pasta para que seu u
 sudo chown -R $USER:$USER projetos/
 ```
 
+## Repositórios Básicos
 
+* [Projeto Hop](https://github.com/pauloricardoferreira/live_hop)
+	* git clone https://github.com/pauloricardoferreira/live_hop.git
+	
+* [Configuração Hop](https://github.com/pauloricardoferreira/live_hop_config)
+	* git clone https://github.com/pauloricardoferreira/live_hop_config.git
+
+<br>	
 As pastas abaixo da pasta projetos, é criada conforme necessidade.
 
 <br>
@@ -168,9 +176,3 @@ Se você já criou seu projeto, para usar o Hop juntamente com Airflow o o Plugi
 Você deve estar se perguntando o porque dessas configurações.
 O Apache Hop e o Plugin que já comentei, foi projetado para trablhar com apenas um projeto.
 Então essas configurações garantem que podemos trabalhar com diversos projetos, pois o pluguin faz leituras de arquivos de configurações e envia tudo isso para o Hop Server.
-
-## Repositórios Básicos
-
-[Projeto Hop](https://github.com/pauloricardoferreira/live_hop)
-
-[Configuração Hop](https://github.com/pauloricardoferreira/live_hop_config)
