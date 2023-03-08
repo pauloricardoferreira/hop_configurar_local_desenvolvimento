@@ -3,7 +3,6 @@
 <br>
 
 ## Configurando pastas
----
 
 <h3> Antes de iniciar, precisamos definir alguns Padrões de Pastas para que posteriormente facilite a configuração do servidor de execuções </h3> 
 
