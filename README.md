@@ -149,8 +149,15 @@ Passos Necessário
 
 ### Dica de Configuração para Apache Hop
 
-
 <br>
+
+A dica abaixo, é para quem utiliza o plugin da damaviz.
+
+Atualmente há uma limitação no pluguins, e essa configuração se faz necessário.
+
+Eu fiz um fork do projeto, e essa limitação não existe.
+
+**Algumas coisas estão em Desenvolvimento, então acompanhe os repositórios.**
 
 Se você já criou seu projeto, para usar o Hop juntamente com Airflow o o Plugin [airflow-hop-plugin](https://github.com/damavis/airflow-hop-plugin) desenvolvido pela Damaviz, é necessário fazer algumas alterações nas configurações das variáveis.
 
